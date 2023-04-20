@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @gegenius
+- 👀 I’m interested in cybersecurity and networking
+- 🌱 I’m currently learning server managment
+- 💞️ I’m looking to collaborate on a tor chathroom
+- 📫 How to contact me:
+- gmail: elia.grassi@gmail.com
+- instagram: elia.grassi08
