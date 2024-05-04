@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gegenius
-- 👀 I’m interested in cybersecurity and networking
-- 🌱 I’m currently learning server managment
-- 💞️ I’m looking to collaborate on a tor chathroom
+- 👀 I’m interested in cybersecurity, networking and coding
+- 🌱 I’m currently learning server managment and bitcoin blockchain interactions
+- 💞️ I’m looking to collaborate on a bitcoin wallet writed in python
 - 📫 How to contact me:
-- gmail: elia.grassi@gmail.com
-- instagram: elia.grassi08
+- gmail: elia.grassi08@gmail.com
+- instagram: eliagrassi__
